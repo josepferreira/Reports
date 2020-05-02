@@ -1,0 +1,40 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+
+\title{TestesPL}
+\author{JoseJorgeGoncalo}
+\date{May 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+
+#O#
+
+# ola
+
+#N#
+
+# *cenas*
+# cenos
+
+#D#
+
+#[FCP] &Futebol Clube& do Porto
+#[FPF] Federação _Portuguesa de_ Futebol 
+
+#FD#
+
+#FN#
+
+# ole
+# oli
+# olo
+
+#FO#
+
+
+\end{document}

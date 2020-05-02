@@ -1,0 +1,54 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+
+\title{TestesPL}
+\author{JoseJorgeGoncalo}
+\date{May 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+
+#T#
+
+>C
+
+>L OlaCenas >FL
+
+\begin{tabular}{\|c\|c\|c\|c\|}
+
+\hline
+
+*ola* | &ole& | C | D #
+\hline
+A | 
+
+\begin{minipage}{1.5in}
+#O#
+
+# ola
+# ole
+# oli
+# olo
+
+#N#
+
+# cenas
+# cenos
+
+#FN#
+
+#FO# 
+\end{minipage}
+| _oli_ | D #
+
+\hline
+
+\end{tabular}
+
+#FT#
+
+\end{document}

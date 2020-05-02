@@ -1,0 +1,73 @@
+\documentclass{report}
+\usepackage[utf8]{inputenc}
+
+\title{TestesPL}
+\author{JoseJorgeGoncalo}
+\date{May 2018}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+*ola*
+&ole&
+_oli_
+
+#O#
+
+# ola
+# ole
+# oli
+# olo
+
+#N#
+
+# cenas
+# cenos
+
+#FN#
+
+#FO#
+
+#D#
+
+#[FCP] Futebol Clube do Porto
+#[FPF] Federação Portuguesa de Futebol 
+
+#FD#
+
+$ Teste $
+
+Vamos lá testar!
+
+$$ Devia dar $
+
+Será que vai dar?
+
+$$$ TODOS juntos $
+
+Todos juntos conseguimos.
+
+#T#
+
+>C
+
+>L OlaCenas >FL
+
+\begin{tabular}{\|c\|c\|c\|c\|}
+
+\hline
+
+A | B | C | D #
+\hline
+A | B | C | D #
+
+\hline
+
+\end{tabular}
+
+#FT#
+
+\end{document}

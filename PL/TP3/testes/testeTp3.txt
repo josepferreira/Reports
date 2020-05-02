@@ -1,0 +1,18 @@
+
+1: God is Plan|Drake|2018|Cardo|https://www.letras.mus.br/drake/gods-plan/|rap|{calmo,70};{dancante,30}|https://www.youtube.com/watch?v=xpVfcZ0ZcFM ;
+2: Chandelier|Sia|2014|Monkey Puzzle|https://www.letras.mus.br/sia/chandelier/|pop|{dancante,10};{espevitante,40};{agitado,50}|https://www.youtube.com/watch?v=2vjPBrBU-TM ;
+3: Dont worry be happy|Bob Marley|1988|Linda Goldstein|https://www.letras.mus.br/drake/gods-plan/|RandB|{alegre,100}|https://www.youtube.com/watch?v=L3HQMbQAWRc ;
+4: A chuva|Marisa|2014|Marisa|https://www.letras.mus.br/mariza/485207/|fado|{calmo,30};{relaxante,60};{triste,10}|https://www.youtube.com/watch?v=tC88Oyz8Khs ;
+5: Hallelujah|Leonard Cohen|1984|Leonard|https://www.letras.mus.br/jeff-buckley/6098/|classico|{triste,30};{calmo,70}|https://www.youtube.com/watch?v=YrLk4vdY28Q ;
+6: Gangnam Style|Psy|2012|YG|https://www.letras.mus.br/psy/gangnam-style/|pop|{agitado,30};{alegre,30};{espevitante,40}|https://www.youtube.com/watch?v=9bZkp7q19f0 ;
+7: High Hopes|Kodaline|2013|B-Unique|https://www.letras.mus.br/kodaline/high-hopes/traducao.html|rock|{triste,60};{calmo,40}|https://www.youtube.com/watch?v=E4povfmX144 ;
+8: Let it Go|James Bay|2014|Republic|https://www.letras.mus.br/james-bay/let-it-go/traducao.html|rock|{calmo,50};{relaxante,50}|https://www.youtube.com/watch?v=GsPq9mzFNGY ;
+9: Reggaeton Lento|CNCO|2016|CNCO|https://www.letras.mus.br/drake/gods-plan/|reggaeton|{alegre,20};{dancante,50};{agitado,30}|https://www.youtube.com/watch?v=7jpqqBX-Myw ;
+10: Meant to be|Bebe Rexha|2017|Warner Bros|https://www.letras.mus.br/bebe-rexha/meant-to-be/traducao.html|country|{relaxante,100}|https://www.youtube.com/watch?v=zDo0H8Fm7d0 ;
+11: A Maquina|Amor Eletro|2011|AE|https://www.letras.mus.br/amor-electro/1881383/|rock|{triste,10};{calmo,90}|https://www.youtube.com/watch?v=d1onT5Z51ZQ ;
+12: A Vida Toda|Carolina Deslandes|2017|CD|https://www.vagalume.com.br/carolina-deslandes/a-vida-toda.html|country|{calmo,100}|https://www.youtube.com/watch?v=75iqd2yJH6w
+
+<//>
+
+{calmo,90},{relaxante,10};
+{alegre,100};
